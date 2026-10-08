@@ -1,11 +1,11 @@
 <div align="center">
 
 # Thodoris Bozios
-### Data Analyst | Business Intelligence | Data Visualization
+### Data Analyst | Marketing Analytics | Business Intelligence
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheodorosBozios-181717?style=for-the-badge&logo=github)](https://github.com/TheodorosBozios)
 [![Location](https://img.shields.io/badge/Location-Ioannina%2C%20Greece-blue?style=for-the-badge)](https://github.com/TheodorosBozios)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20BI%20Analyst-success?style=for-the-badge)](https://github.com/TheodorosBozios)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst%20%7C%20Marketing%20Analyst-success?style=for-the-badge)](https://github.com/TheodorosBozios)
 
 </div>
 
@@ -15,63 +15,65 @@
 
 I am a **Data Analyst** with a degree in Statistics and Insurance Science from the University of Western Macedonia (Greece).
 
-I specialize in turning complex datasets into clear, actionable insights using **Python**, **Power BI**, **Tableau**, **Excel**, **R** and **SQL**.  
-My work focuses on **exploratory data analysis**, **business intelligence dashboards**, **KPI design**, **customer & sales analytics**, and **machine learning** applications.
+I turn complex data into clear stories about what customers do, why they do it, and what a business should do next. I combine statistical analysis and data visualization with marketing analytics skills (KPIs, campaign performance, customer insights) to support better marketing and business decisions.
 
-I am currently open to opportunities as:
-- Data Analyst
-- BI / Power BI Analyst
-- Junior Data Scientist
-- Analytics roles (Greece · Europe · Remote)
+**Core stack:** Python · R · SQL · Excel · Power BI · Tableau  
+**Also working with:** Google Analytics 4 · Google Ads · A/B testing · CRM · SEO fundamentals
+
+I am open to opportunities as:
+- Data Analyst / BI Analyst
+- Marketing Analyst / Marketing Analytics
+- Junior roles in analytics (Greece · Europe · Remote)
 
 ---
 
 ### Featured Projects
 
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [**Sales Performance Dashboard**](https://github.com/TheodorosBozios/sales-performance-dashboard-powerbi) | Power BI | Interactive executive dashboard with KPIs, geographic analysis, year filtering & Q&A |
-| [**Online Retail Analysis**](https://github.com/TheodorosBozios/online-retail-excel-analysis) | Excel | Full sales & customer analysis: revenue, AOV, repeat rate, geographic performance & business report |
-| [**Delivery Operations Dashboard**](https://github.com/TheodorosBozios/delivery-operations-dashboard-tableau) | Tableau | Operations dashboard tracking order volume, delivery times and city-level performance |
-| [**Heart Failure ML Analysis**](https://github.com/TheodorosBozios/heart-failure-ml-analysis) | Python · scikit-learn | EDA + classification models on clinical heart failure records |
+| Project | Focus | Tools |
+|---------|-------|-------|
+| [**Sales Performance Dashboard**](https://github.com/TheodorosBozios/sales-performance-dashboard-powerbi) | Sales & performance KPIs, geographic analysis, interactive filtering | Power BI |
+| [**Online Retail Analysis**](https://github.com/TheodorosBozios/online-retail-excel-analysis) | Customer & sales analytics: revenue, AOV, repeat rate, geographic performance | Excel |
+| [**Delivery Operations Dashboard**](https://github.com/TheodorosBozios/delivery-operations-dashboard-tableau) | Operations KPIs, order volume and delivery performance by city | Tableau |
+| [**Heart Failure ML Analysis**](https://github.com/TheodorosBozios/heart-failure-ml-analysis) | EDA + classification models (Python / scikit-learn) | Python |
+
+*More marketing analytics projects (campaign KPIs, A/B testing, digital performance) coming soon.*
 
 ---
 
-### Tech Stack & Skills
+### Skills
 
 **Data Analysis & BI**  
-`Python` · `R` · `SQL` · `Excel` · `Power BI` · `Tableau`
+`Python` · `R` · `SQL` · `Excel` · `Power BI` · `Tableau` · Data Cleaning · Statistical Analysis · Dashboard Design · KPI Design
 
-**Libraries & Techniques**  
-`pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn` · Statistical Analysis · EDA · KPI Design · Dashboard Design
+**Marketing Analytics**  
+Campaign Performance · A/B Testing · Marketing KPIs (CTR, CPC, CPA, ROAS, Conversion Rate, CAC, CLV) · Customer Segmentation · Consumer Insights · Google Analytics 4 · Google Ads
 
 **Domains**  
-Sales Analytics · Customer Analytics · Operations Analytics · Business Intelligence · Machine Learning · Data Visualization
+Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analytics · Business Intelligence · Data Visualization
 
 ---
 
 ### What I Focus On
 
-- Building clean, executive-ready **dashboards** (Power BI & Tableau)
-- Performing **end-to-end analysis** from raw data to business insights
-- Designing meaningful **KPIs** and storytelling with data
-- Applying **statistical methods** and **machine learning** when relevant
-- Writing clear documentation and portfolio-ready project READMEs
+- Turning raw data into **clear business and marketing insights**
+- Building executive-ready **dashboards** (Power BI & Tableau)
+- Designing and tracking meaningful **KPIs** (sales, customer, campaign)
+- Supporting decisions with **data storytelling** and simple, actionable reports
+- Combining statistical methods with practical marketing analytics
 
 ---
 
-### Contact & Links
+### Contact
 
 - GitHub: [TheodorosBozios](https://github.com/TheodorosBozios)
 - Email: thodorisbozios@gmail.com
+- LinkedIn: [linkedin.com/in/thodorisbozios](https://linkedin.com/in/thodorisbozios)
 - Location: Ioannina, Greece
-
-Feel free to explore my repositories or reach out for collaboration and opportunities.
 
 ---
 
 <div align="center">
 
-**Data Analyst · Power BI · Tableau · Python · Excel · Business Intelligence**
+**Data Analyst · Marketing Analytics · Power BI · Tableau · Python · Excel**
 
 </div>
