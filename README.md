@@ -33,6 +33,7 @@ I am open to opportunities as:
 |---------|-------|-------|
 | [**Google Ads Campaign Analysis**](https://github.com/TheodorosBozios/google-ads-campaign-analysis) | Campaign KPIs (CTR, CPC, ROAS), budget reallocation & 3-month optimization plan | Marketing Analytics |
 | [**GreenVibes Content Strategy**](https://github.com/TheodorosBozios/greenvibes-content-strategy) | Full-funnel content strategy: personas, pillars, calendar & marketing KPIs | Content Strategy |
+| [**PlayBloom Social Media Strategy**](https://github.com/TheodorosBozios/playbloom-social-media-strategy) | Organic + paid social strategy: platforms, funnel ads, calendar & KPIs | Social Media Strategy |
 | [**Sales Performance Dashboard**](https://github.com/TheodorosBozios/sales-performance-dashboard-powerbi) | Sales & performance KPIs, geographic analysis, interactive filtering | Power BI |
 | [**Online Retail Analysis**](https://github.com/TheodorosBozios/online-retail-excel-analysis) | Customer & sales analytics: revenue, AOV, repeat rate, geographic performance | Excel |
 | [**Delivery Operations Dashboard**](https://github.com/TheodorosBozios/delivery-operations-dashboard-tableau) | Operations KPIs, order volume and delivery performance by city | Tableau |
@@ -46,7 +47,7 @@ I am open to opportunities as:
 `Python` · `R` · `SQL` · `Excel` · `Power BI` · `Tableau` · Data Cleaning · Statistical Analysis · Dashboard Design · KPI Design
 
 **Marketing Analytics**  
-Campaign Performance · A/B Testing · Content Strategy · Marketing KPIs (CTR, CPC, CPA, ROAS, Conversion Rate, CAC, CLV) · Customer Segmentation · Consumer Insights · Google Analytics 4 · Google Ads
+Campaign Performance · A/B Testing · Content Strategy · Social Media Strategy · Marketing KPIs (CTR, CPC, CPA, ROAS, Conversion Rate, CAC, CLV) · Customer Segmentation · Consumer Insights · Google Analytics 4 · Google Ads
 
 **Domains**  
 Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analytics · Business Intelligence · Data Visualization
@@ -57,7 +58,7 @@ Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analy
 
 - Turning raw data into **clear business and marketing insights**
 - Building executive-ready **dashboards** (Power BI & Tableau)
-- Designing and tracking meaningful **KPIs** (sales, customer, campaign, content)
+- Designing and tracking meaningful **KPIs** (sales, customer, campaign, content, social)
 - Supporting decisions with **data storytelling** and simple, actionable reports
 - Combining statistical methods with practical marketing analytics
 
