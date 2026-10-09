@@ -31,6 +31,7 @@ I am open to opportunities as:
 
 | Project | Focus | Tools |
 |---------|-------|-------|
+| [**Athens Airbnb SQL Analysis**](https://github.com/TheodorosBozios/athens-airbnb-sql-analysis) | SQL Server pipeline: pricing, availability, reviews, views & stored procedures | SQL Server |
 | [**Google Ads Campaign Analysis**](https://github.com/TheodorosBozios/google-ads-campaign-analysis) | Campaign KPIs (CTR, CPC, ROAS), budget reallocation & 3-month optimization plan | Marketing Analytics |
 | [**GreenVibes Content Strategy**](https://github.com/TheodorosBozios/greenvibes-content-strategy) | Full-funnel content strategy: personas, pillars, calendar & marketing KPIs | Content Strategy |
 | [**PlayBloom Social Media Strategy**](https://github.com/TheodorosBozios/playbloom-social-media-strategy) | Organic + paid social strategy: platforms, funnel ads, calendar & KPIs | Social Media Strategy |
@@ -76,6 +77,6 @@ Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analy
 
 <div align="center">
 
-**Data Analyst · Marketing Analytics · Power BI · Tableau · Python · Excel**
+**Data Analyst · Marketing Analytics · Power BI · Tableau · Python · Excel · SQL**
 
 </div>
