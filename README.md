@@ -31,6 +31,7 @@ I am open to opportunities as:
 
 | Project | Focus | Tools |
 |---------|-------|-------|
+| [**CISA KEV Analysis (R)**](https://github.com/TheodorosBozios/cisa-kev-r-analysis) | Actively exploited CVEs: vendors, ransomware, CWEs, remediation windows | R · Cybersecurity |
 | [**Athens Airbnb SQL Analysis**](https://github.com/TheodorosBozios/athens-airbnb-sql-analysis) | SQL Server pipeline: pricing, availability, reviews, views & stored procedures | SQL Server |
 | [**Google Ads Campaign Analysis**](https://github.com/TheodorosBozios/google-ads-campaign-analysis) | Campaign KPIs (CTR, CPC, ROAS), budget reallocation & 3-month optimization plan | Marketing Analytics |
 | [**GreenVibes Content Strategy**](https://github.com/TheodorosBozios/greenvibes-content-strategy) | Full-funnel content strategy: personas, pillars, calendar & marketing KPIs | Content Strategy |
@@ -52,7 +53,7 @@ I am open to opportunities as:
 Campaign Performance · A/B Testing · Content Strategy · Social Media Strategy · Brand Storytelling · Marketing KPIs (CTR, CPC, CPA, ROAS, Conversion Rate, CAC, CLV) · Customer Segmentation · Consumer Insights · Google Analytics 4 · Google Ads
 
 **Domains**  
-Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analytics · Business Intelligence · Data Visualization
+Sales Analytics · Customer Analytics · Marketing Analytics · Cybersecurity Analytics · Operations Analytics · Business Intelligence · Data Visualization
 
 ---
 
@@ -77,6 +78,6 @@ Sales Analytics · Customer Analytics · Marketing Analytics · Operations Analy
 
 <div align="center">
 
-**Data Analyst · Marketing Analytics · Power BI · Tableau · Python · Excel · SQL**
+**Data Analyst · Marketing Analytics · Power BI · Tableau · Python · R · Excel · SQL**
 
 </div>
