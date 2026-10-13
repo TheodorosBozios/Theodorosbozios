@@ -19,7 +19,7 @@
 
 Data Analyst based in **Ioannina, Greece**, with a degree in **Statistics and Insurance Science** (University of Western Macedonia).
 
-I turn raw data into clear decisions: customer behaviour, campaign performance, operations KPIs and executive-ready dashboards. Work spans **data analysis**, **marketing analytics** and **business intelligence** — from SQL pipelines and statistical models to Power BI / Tableau reporting.
+I turn raw data into clear decisions: customer behaviour, campaign performance, operations KPIs and executive-ready dashboards. Work spans **data analysis**, **marketing analytics** and **business intelligence**  from SQL pipelines and statistical models to Power BI / Tableau reporting.
 
 **Open to:** Data Analyst · BI Analyst · Marketing Analyst roles in Greece, Europe or remote.
 
