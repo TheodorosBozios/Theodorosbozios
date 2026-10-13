@@ -31,7 +31,7 @@ I turn raw data into clear decisions: customer behaviour, campaign performance, 
 
 | Project | What it shows |
 | --- | --- |
-| [**Olist Logistics (Google Sheets)**](https://github.com/TheodorosBozios/olist-logistics-google-sheets) | Delivery performance: on-time rate, cycle time, state differences, freight — formula workbook + charts |
+| [**Olist Logistics (Google Sheets)**](https://github.com/TheodorosBozios/olist-logistics-google-sheets) | Delivery performance: on-time rate, cycle time, state differences, freight formula workbook + charts |
 | [**Athens Airbnb (SQL Server)**](https://github.com/TheodorosBozios/athens-airbnb-sql-analysis) | Schema, cleaning, business queries, views, stored procedures, indexes |
 | [**Sales Performance (Power BI)**](https://github.com/TheodorosBozios/sales-performance-dashboard-powerbi) | Sales KPIs, geography, filters, Q&A |
 | [**Online Retail (Excel)**](https://github.com/TheodorosBozios/online-retail-excel-analysis) | Revenue, AOV, repeat rate, geographic performance |
