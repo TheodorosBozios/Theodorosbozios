@@ -17,9 +17,9 @@
 
 ## About
 
-Data Analyst in **Ioannina, Greece** — BSc in **Statistics and Insurance Science** (University of Western Macedonia).
+Data Analyst in **Ioannina, Greece** BSc in **Statistics and Insurance Science** (University of Western Macedonia).
 
-I turn raw data into decisions: customer behaviour, campaign performance, operations KPIs and dashboards managers can actually use. Stack covers analysis, marketing analytics and BI — from SQL pipelines and models to Power BI, Tableau and spreadsheet reporting.
+I turn raw data into decisions: customer behaviour, campaign performance, operations KPIs and dashboards managers can actually use. Stack covers analysis, marketing analytics and BI from SQL pipelines and models to Power BI, Tableau and spreadsheet reporting.
 
 **Looking for:** Data Analyst · BI Analyst · Marketing Analyst · Greece / Europe / Remote
 
@@ -31,7 +31,7 @@ I turn raw data into decisions: customer behaviour, campaign performance, operat
 
 | Repo | Outcome |
 | --- | --- |
-| [**olist-logistics-google-sheets**](https://github.com/TheodorosBozios/olist-logistics-google-sheets) | On-time delivery, cycle time, state gaps, freight — Sheets workbook + charts |
+| [**olist-logistics-google-sheets**](https://github.com/TheodorosBozios/olist-logistics-google-sheets) | On-time delivery, cycle time, state gaps, freight Sheets workbook + charts |
 | [**athens-airbnb-sql-analysis**](https://github.com/TheodorosBozios/athens-airbnb-sql-analysis) | SQL Server: schema, cleaning, views, procedures, indexes |
 | [**sales-performance-dashboard-powerbi**](https://github.com/TheodorosBozios/sales-performance-dashboard-powerbi) | Sales KPIs, geography, filters, Q&A |
 | [**online-retail-excel-analysis**](https://github.com/TheodorosBozios/online-retail-excel-analysis) | Revenue, AOV, repeat rate, geography |
@@ -62,10 +62,10 @@ I turn raw data into decisions: customer behaviour, campaign performance, operat
 
 ## How I work
 
-1. **Question first** — what decision does this analysis support?  
-2. **Clean and document** — missing data, eligibility rules, limitations stay visible  
-3. **Measure what matters** — KPIs tied to business outcomes, not vanity metrics  
-4. **Show the path** — reproducible steps so someone else can re-run or audit  
+1. **Question first** what decision does this analysis support?  
+2. **Clean and document** missing data, eligibility rules, limitations stay visible  
+3. **Measure what matters** KPIs tied to business outcomes, not vanity metrics  
+4. **Show the path** reproducible steps so someone else can re-run or audit  
 
 ---
 
